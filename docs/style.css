@@ -369,7 +369,9 @@ a {
 .code-block pre {
   max-width: 100%;
   margin: 0;
-  padding: 20px 64px 20px 20px;
+  padding: 20px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
   overflow-x: auto;
   background: #121518;
   border-radius: 4px;
