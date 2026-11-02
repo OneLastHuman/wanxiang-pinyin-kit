@@ -339,6 +339,10 @@ a {
   align-items: start;
 }
 
+.install-grid > * {
+  min-width: 0;
+}
+
 .steps {
   margin: 0;
   padding-left: 1.4em;
@@ -363,6 +367,7 @@ a {
 }
 
 .code-block pre {
+  max-width: 100%;
   margin: 0;
   padding: 20px 64px 20px 20px;
   overflow-x: auto;
@@ -530,6 +535,16 @@ td:first-child {
 
   .code-block code {
     font-size: 12.5px;
+  }
+
+  .cand {
+    gap: 5px;
+    padding: 3px 7px;
+    font-size: 16px;
+  }
+
+  .cand .num {
+    font-size: 10px;
   }
 }
 
