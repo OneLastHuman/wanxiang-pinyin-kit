@@ -1,0 +1,17 @@
+# 万象拼音用户自定义补丁（升级万象不会覆盖）
+# 已开启模糊音：平翘舌（z/zh、c/ch、s/sh）、n/l、前后鼻音（en/eng、in/ing）
+# 另有可选项：模糊音_hf（h/f）、模糊音_rl（r/l）、模糊音_ry（r/y）、模糊音_kg（k/g）
+patch:
+  speller/algebra:
+    __patch:
+      - wanxiang_algebra:/模糊音_z_zh
+      - wanxiang_algebra:/模糊音_c_ch
+      - wanxiang_algebra:/模糊音_s_sh
+      - wanxiang_algebra:/模糊音_nl
+      - wanxiang_algebra:/模糊音_en_eng
+      - wanxiang_algebra:/模糊音_in_ing
+      - wanxiang_algebra:/base/全拼
+      - my_algebra:/我的规则
+  # 乱序拼音自动纠错（lua/fuzzy_corrector.lua）
+  "engine/translators/+":
+    - lua_translator@*fuzzy_corrector

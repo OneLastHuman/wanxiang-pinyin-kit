@@ -1,0 +1,13 @@
+# 用户自定义拼音规则（升级万象不会覆盖）
+# 1. v 当 ü：jve→jue、jvan→juan、jvn→jun
+# 2. 儿化音：huar→花儿、dianr→点儿
+我的规则:
+  __append:
+    - derive/^([jqxy])ue(\d)$/$1ve$2/
+    - derive/^([jqxy])ue$/$1ve/
+    - derive/^([jqxy])uan(\d)$/$1van$2/
+    - derive/^([jqxy])uan$/$1van/
+    - derive/^([jqxy])un(\d)$/$1vn$2/
+    - derive/^([jqxy])un$/$1vn/
+    - derive/^er(\d)$/r$2/
+    - derive/^er$/r/

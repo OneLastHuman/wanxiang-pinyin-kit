@@ -1,0 +1,127 @@
+# Rime dictionary
+# encoding: utf-8
+# 游戏词汇补充（常用游戏术语与游戏名）
+---
+name: youxi
+version: "2026-11-02"
+sort: by_weight
+...
+
+生存建造	shēng cún jiàn zào	1000
+即时战略	jí shí zhàn lüè	1000
+动作冒险	dòng zuò mào xiǎn	1000
+战术竞技	zhàn shù jìng jì	1000
+卡牌对战	kǎ pái duì zhàn	1000
+集换式卡牌	jí huàn shì kǎ pái	1000
+弹幕射击	dàn mù shè jī	1000
+音乐游戏	yīn yuè yóu xì	1000
+竞速游戏	jìng sù yóu xì	1000
+体育游戏	tǐ yù yóu xì	1000
+恐怖游戏	kǒng bù yóu xì	1000
+视觉小说	shì jué xiǎo shuō	1000
+文字冒险	wén zì mào xiǎn	1000
+重氪	zhòng kè	1000
+毕业装	bì yè zhuāng	1000
+刷本	shuā běn	1000
+自动战斗	zì dòng zhàn dòu	1000
+蹲草	dūn cǎo	1000
+排眼	pái yǎn	1000
+支线任务	zhī xiàn rèn wù	1000
+抽卡概率	chōu kǎ gài lǜ	1000
+家庭共享	jiā tíng gòng xiǎng	1000
+联机大厅	lián jī dà tīng	1000
+赛季服	sài jì fú	1000
+硬核模式	yìng hé mó shì	1000
+生存模式	shēng cún mó shì	1000
+创造模式	chuàng zào mó shì	1000
+观战模式	guān zhàn mó shì	1000
+成就党	chéng jiù dǎng	1000
+我的世界	wǒ de shì jiè	1500
+泰拉瑞亚	tài lā ruì yà	1500
+戴森球计划	dài sēn qiú jì huà	1500
+双人成行	shuāng rén chéng xíng	1500
+塞尔达传说	sāi ěr dá chuán shuō	1500
+王国之泪	wáng guó zhī lèi	1500
+旷野之息	kuàng yě zhī xī	1500
+超级马里奥	chāo jí mǎ lǐ ào	1500
+艾尔登法环	ài ěr dēng fǎ huán	1500
+黑暗之魂	hēi àn zhī hún	1500
+血源诅咒	xuè yuán zǔ zhòu	1500
+荒野大镖客	huāng yě dà biāo kè	1500
+上古卷轴	shàng gǔ juǎn zhóu	1500
+刺客信条	cì kè xìn tiáo	1500
+孤岛惊魂	gū dǎo jīng hún	1500
+使命召唤	shǐ mìng zhào huàn	1500
+反恐精英	fǎn kǒng jīng yīng	1500
+无畏契约	wú wèi qì yuē	1500
+守望先锋	shǒu wàng xiān fēng	1500
+和平精英	hé píng jīng yīng	1500
+穿越火线	chuān yuè huǒ xiàn	1500
+英雄联盟	yīng xióng lián méng	1500
+王者荣耀	wáng zhě róng yào	1500
+魔兽世界	mó shòu shì jiè	1500
+魔兽争霸	mó shòu zhēng bà	1500
+星际争霸	xīng jì zhēng bà	1500
+暗黑破坏神	àn hēi pò huài shén	1500
+炉石传说	lú shí chuán shuō	1500
+最终幻想	zuì zhōng huàn xiǎng	1500
+怪物猎人	guài wù liè rén	1500
+生化危机	shēng huà wēi jī	1500
+死亡搁浅	sǐ wáng gē qiǎn	1500
+底特律变人	dǐ tè lǜ biàn rén	1500
+神秘海域	shén mì hǎi yù	1500
+最后生还者	zuì hòu shēng huán zhě	1500
+崩坏星穹铁道	bēng huài xīng qióng tiě dào	1500
+明日方舟	míng rì fāng zhōu	1500
+碧蓝航线	bì lán háng xiàn	1500
+梦幻西游	mèng huàn xī yóu	1500
+天涯明月刀	tiān yá míng yuè dāo	1500
+古剑奇谭	gǔ jiàn qí tán	1500
+仙剑奇侠传	xiān jiàn qí xiá zhuàn	1500
+全面战争	quán miàn zhàn zhēng	1500
+城市天际线	chéng shì tiān jì xiàn	1500
+模拟人生	mó nǐ rén shēng	1500
+极品飞车	jí pǐn fēi chē	1500
+极限竞速	jí xiàn jìng sù	1500
+胡闹厨房	hú nào chú fáng	1500
+求生之路	qiú shēng zhī lù	1500
+方舟生存进化	fāng zhōu shēng cún jìn huà	1500
+幻兽帕鲁	huàn shòu pà lǔ	1500
+吸血鬼幸存者	xī xuè guǐ xìng cún zhě	1500
+空洞骑士	kōng dòng qí shì	1500
+杀戮尖塔	shā lù jiān tǎ	1500
+牧场物语	mù chǎng wù yǔ	1500
+异星工厂	yì xīng gōng chǎng	1500
+坎巴拉太空计划	kǎn bā lā tài kōng jì huà	1500
+欧洲卡车模拟	ōu zhōu kǎ chē mó nǐ	1500
+微软模拟飞行	wēi ruǎn mó nǐ fēi xíng	1500
+火焰纹章	huǒ yàn wén zhāng	1500
+马里奥赛车	mǎ lǐ ào sài chē	1500
+任天堂明星大乱斗	rèn tiān táng míng xīng dà luàn dòu	1500
+斯普拉遁	sī pǔ lā dùn	1500
+健身环大冒险	jiàn shēn huán dà mào xiǎn	1500
+女神异闻录	nǚ shén yì wén lù	1500
+尼尔机械纪元	ní ěr jī xiè jì yuán	1500
+死亡细胞	sǐ wáng xì bāo	1500
+无主之地	wú zhǔ zhī dì	1500
+泰坦陨落	tài tǎn yǔn luò	1500
+星际战甲	xīng jì zhàn jiǎ	1500
+黎明杀机	lí míng shā jī	1500
+英灵神殿	yīng líng shén diàn	1500
+无人深空	wú rén shēn kōng	1500
+双点医院	shuāng diǎn yī yuàn	1500
+海岛大亨	hǎi dǎo dà hēng	1500
+帝国时代	dì guó shí dài	1500
+红色警戒	hóng sè jǐng jiè	1500
+英雄无敌	yīng xióng wú dí	1500
+博德之门	bó dé zhī mén	1500
+神界原罪	shén jiè yuán zuì	1500
+极乐迪斯科	jí lè dí sī kē	1500
+质量效应	zhì liàng xiào yìng	1500
+龙腾世纪	lóng téng shì jì	1500
+少女前线	shào nǚ qián xiàn	1500
+蔚蓝档案	wèi lán dàng àn	1500
+公主连结	gōng zhǔ lián jié	1500
+白荆回廊	bái jīng huí láng	1500
+尘白禁区	chén bái jìn qū	1500
+恋与深空	liàn yǔ shēn kōng	1500
