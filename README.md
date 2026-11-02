@@ -4,6 +4,8 @@
 
 全部离线运行，不联网、不上传输入内容。
 
+在线介绍页：<https://onelasthuman.github.io/wanxiang-pinyin-kit/>
+
 ## 功能一览
 
 | 功能 | 输入示例 | 效果 |

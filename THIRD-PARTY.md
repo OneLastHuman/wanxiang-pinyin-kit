@@ -24,6 +24,12 @@
 - 许可：MIT License，Copyright (c) 2018 THUNLP
 - 使用方式：`dicts/keji.dict.yaml` 的词条来自其 `THUOCL_IT.txt`，拼音由本仓库脚本标注，并剔除万象基础词库已有的词。
 
+## IBM Plex Mono（网页字体）
+
+- 来源：<https://github.com/IBM/plex>
+- 许可：SIL Open Font License 1.1（全文见 `docs/fonts/OFL.txt`）
+- 使用方式：介绍页 `docs/` 内自托管 Latin 子集，用于按键与命令等拉丁字符。
+
 ## 雾凇拼音（rime-ice）
 
 - 来源：<https://github.com/iDvel/rime-ice>
